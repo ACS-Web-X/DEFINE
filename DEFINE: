@@ -17,7 +17,7 @@ For Trio-Complex Base_URL Protocol
 DEFINE: NIL;
 
 For Advanced Trio-Complex Base_URL Protocol
-DEFINE: @(AL-!RN);@(Q-!QQ);@(! QPP-OM);
+DEFINE: @(AL-!RN);@(Q-!QQ);@(!QPP-OM);
 
 For Quadri-Complex Base_URL Protocol
 DEFINE: @?((AL-R);(!RP-Q);(!QP-!QQ);(!QQP-OM));
